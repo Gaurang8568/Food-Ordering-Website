@@ -59,7 +59,7 @@ First, you need to clone the repository to your local machine. This process down
    In your terminal or command prompt, type the following command and press Enter:
 
    ```bash
-   git clone https://github.com/khushi-joshi-05/FoodOrderingWebsite.git
+   git clone https://github.com/Gaurang8568/FoodOrderingWebsite.git
    ```
 
    This command will create a new directory named `FoodOrderingWebsite` in your current location, containing all the files from the repository.
