@@ -188,17 +188,6 @@ Please note that this project is released with a [Contributor Code of Conduct](.
 This project is licensed under the [MIT License](./LICENSE).
 
 <hr>
- <!-- Cotributors -->
-<div>
-  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" width="35" height="35"> Contributors</h2>
-</div>
-
-Thank you for contributing to our repository.😃
-
-<a href="https://github.com/SaiyamTuteja/Faculty_Evaluation_System/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=khushi-joshi-05/Food-ordering-website" alt="Contributors" width="99%"/>
-</a>
-
 <br>
 
 Show some ❤️ by starring this awesome repository!
